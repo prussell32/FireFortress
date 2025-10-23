@@ -11,7 +11,6 @@ A Python-based, audit-ready firewall automation tool that detects the active Lin
 - Validates rule structure before application
 - Applies rules with audit logging and error handling
 - Logs firewall state post-application for traceability
-- Supports dry-run simulation (optional extension)
 - Designed for extensibility and compliance workflows
 
 ---
